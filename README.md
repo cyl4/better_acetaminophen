@@ -12,3 +12,4 @@
 ## Smithsonian Article Feature
 
 - [This 17-Year-Old Scientist Is Making an Acetaminophen Alternative That Is Less Damaging to the Liver (2025)](https://www.smithsonianmag.com/innovation/this-17-year-old-scientist-is-making-an-acetaminophen-alternative-that-is-less-damaging-to-the-liver-180986331/)
+
